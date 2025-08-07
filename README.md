@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 📝 Full Stack To-Do List Application
 
@@ -99,3 +100,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 > Built with ❤️ using Node.js and MongoDB.
+=======
+# todo-list-nodejs
+A full-stack To-Do List web app with CRUD operations built using Node.js, Express, HTML, CSS, and JavaScript.
+>>>>>>> bbbe1e1b01ec70a9634ccf73d762877b071013db
